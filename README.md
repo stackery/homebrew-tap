@@ -12,6 +12,8 @@ brew install FORMULA
 
 ## Formulae
 
+* [stackery-cli](Formula/stackery-cli.rb)
+
 
 ## Documentation
 
